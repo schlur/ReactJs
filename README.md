@@ -1,3 +1,4 @@
 # ReactJs
 
-Test the Git repo integration in VS Code
+Test the Git repo integration in VS Code.
+Next edit.

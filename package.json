@@ -1,0 +1,20 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "Test the Git repo integration in VS Code.\r Next edit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schlur/ReactJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schlur/ReactJs/issues"
+  },
+  "homepage": "https://github.com/schlur/ReactJs#readme"
+}
